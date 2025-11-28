@@ -1,0 +1,5 @@
+{
+  "name": "NiftyValuator AI",
+  "description": "A comprehensive stock valuation dashboard combining DCF, Relative Valuation, Graham Number, and Sentiment Analysis for the Nifty 200, powered by Gemini AI.",
+  "requestFramePermissions": []
+}
